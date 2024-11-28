@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageLabelApp</string>
+    <string name="camera_image">Camera image</string>
+    <string name="take_picture">Take picture</string>
+</resources>
