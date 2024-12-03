@@ -45,10 +45,11 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.image.labeling.default.common)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
     //MLKIT Image Labeling APIs
-    implementation (libs.image.labeling.custom)
+    implementation(libs.image.labeling)
 }

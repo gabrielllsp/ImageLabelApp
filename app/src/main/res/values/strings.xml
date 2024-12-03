@@ -2,4 +2,6 @@
     <string name="app_name">ImageLabelApp</string>
     <string name="camera_image">Camera image</string>
     <string name="take_picture">Take picture</string>
+    <string name="unable_to_capture_image">Unable to capture image</string>
+    <string name="no_labels_found">No labels found</string>
 </resources>
